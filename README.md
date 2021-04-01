@@ -1,2 +1,3 @@
-# flink-kotlin-word-count
+# Flink Kotlin Word Count
+
 Kotlin with Flink, trying word count
